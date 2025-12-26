@@ -48,7 +48,7 @@ I'm a **Software Developer** passionate about creating innovative solutions and 
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melaku-tilahun&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=3B88F7&fire=3B88F7&currStreakLabel=3B88F7&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=melaku-tilahun&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=3B88F7&fire=3B88F7&currStreakLabel=3B88F7&v=2)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=melaku-tilahun&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B88F7&icon_color=3B88F7&text_color=C9D1D9&count_private=true&v=1)
 
