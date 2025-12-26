@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a hands-on developer who builds intelligent web and mobile applications. Whether it's full-stack web and mobile apps, or integrating domain-specific AI—like chatbots with RAG systems—I focus on creating solutions that don't just work, but **understand**. My passion lies in bridging the gap between raw code and contextual intelligence, making applications smarter and more attuned to real-world needs. 
 
@@ -20,7 +20,7 @@ I'm always open to interesting collaborations, crazy ideas, or just good tech co
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,7 +45,7 @@ I'm always open to interesting collaborations, crazy ideas, or just good tech co
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
@@ -61,7 +61,7 @@ I'm always open to interesting collaborations, crazy ideas, or just good tech co
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -70,13 +70,21 @@ I'm always open to interesting collaborations, crazy ideas, or just good tech co
 </div>
 
 ### 🔐 [Fayda SDK](https://github.com/melaku-tilahun/fayda-sdk)
-A comprehensive authentication SDK implementing OIDC flow with beautiful UI components. Features include dark/light modes, mobile optimization, and seamless integration for modern web applications.
 
-**Key Technologies:** TypeScript, OIDC, NPM Package
+A minimalist, secure-by-default Node.js SDK for integrating with Ethiopia's National ID (Fayda) via the MOSIP eSignet OIDC platform.
+
+This package handles the complexity of OIDC, PKCE, and Private Key JWT authentication, allowing you to focus on your application logic.
+
+**Key Features:**
+- **Zero-Config PKCE:** Automatically generates cryptographically secure `code_verifier` and `code_challenge`.
+- **Automated Signing:** Handles RSA-SHA256 signing of Client Assertions using your Private Key.
+- **Environment Presets:** Built-in configurations for UAT (Staging) and PROD (Live).
+- **Identity Unwrapping:** Automatically verifies and decodes the User Identity JWT returned by Fayda.
+- **TypeScript Support:** Includes full type definitions.
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -86,7 +94,7 @@ A comprehensive authentication SDK implementing OIDC flow with beautiful UI comp
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -100,10 +108,10 @@ A comprehensive authentication SDK implementing OIDC flow with beautiful UI comp
 
 <div align="center">
 
-### 💭 Quote of the Day
+### Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
 
-### 👀 Profile Views
+### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=melaku-tilahun&color=3B88F7&style=for-the-badge&label=Profile+Views)
 
 </div>
